@@ -1,0 +1,8 @@
+
+.container-fluid {
+	color: #2c3e50;
+	background: #ecf0f1
+}
+.navbar-dark .navbar-nav .nav-link {
+	color: white;
+}
